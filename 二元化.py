@@ -1,8 +1,8 @@
 import pandas as pd
 
 # 讀取原始檔案
-input_file = 'submission_20250411_160503.csv'
-output_file = 'submission_binary.csv'
+input_file = 'submission_20250414_152835.csv'
+output_file = 'submission_binary_20250414_152835.csv'
 
 # 讀取 CSV 檔案
 data = pd.read_csv(input_file)
